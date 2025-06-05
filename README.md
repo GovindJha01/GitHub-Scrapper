@@ -26,13 +26,13 @@ GitHub-Scrapper is a backend Node.js service that scrapes GitHub user search res
    ```bash
    npm i
    ``` 
-3.Create a .env file in the \server directory:
+3. Create a .env file in the \server directory:
    look for .env.example for reference
 
 ##🧪 Usage
 1. Start the backend server
   ```bash
-    nodemon server/index.js
+  nodemon server/index.js
   ```
 2. Visit the endpoint in postman
    ```bash
