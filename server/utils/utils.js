@@ -43,7 +43,7 @@ async function enrichProfileData(profileUrl) {
   
   
   const pinnedRepos = [];
-  $('#user-profile-frame').each((i, el) => {
+  $('.js-pinned-items-reorder-container').each((i, el) => {
     pinnedRepos.push({
       name: $(el).find('.repo').text().trim(),
       description: $(el).find('.pinned-item-desc').text().trim(),
