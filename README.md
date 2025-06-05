@@ -21,7 +21,7 @@ GitHub-Scrapper is a backend Node.js service that scrapes GitHub user search res
    
    ```bash
    git clone https://github.com/GovindJha01/GitHub-Scrapper.git
-   cd GitHub-Scrapper
+   cd GitHub-Scrapper/servver
    ``` 
 3. Install dependencies:
 
@@ -36,7 +36,7 @@ GitHub-Scrapper is a backend Node.js service that scrapes GitHub user search res
 1. Start the backend server
   
    ```bash
-   nodemon server/index.js
+   nodemon index.js
    ```
 2. Visit the endpoint in postman
 
