@@ -32,7 +32,7 @@ GitHub-Scrapper is a backend Node.js service that scrapes GitHub user search res
 
    Look for .env.example for reference
 
-##🧪 Usage
+## 🧪 Usage
 1. Start the backend server
   
    ```bash
