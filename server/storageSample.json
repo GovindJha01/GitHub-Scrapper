@@ -1,0 +1,1175 @@
+{
+  "rawData": [
+    {
+      "githubUsername": "",
+      "username": "javascript",
+      "profileUrl": "https://github.com/javascript",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "The Modern JavaScript Tutorial",
+      "username": "javascript-tutorial",
+      "profileUrl": "https://github.com/javascript-tutorial",
+      "bio": "The Modern JavaScript Tutorial",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "JavaScript",
+      "username": "javascriptit",
+      "profileUrl": "https://github.com/javascriptit",
+      "bio": "JavaScript the client side language of the World Wide Web",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "",
+      "username": "javascripter",
+      "profileUrl": "https://github.com/javascripter",
+      "bio": "Software Engineer 🤔",
+      "location": "London",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "nanocsspostcss-react-strict-domtyped-linkreact-hooks-use-form-statenext-scroll-restorationChatPadでGPS距離から住所を特定するexploit（修正済み）",
+          "description": "A fast, 2Kb alternative to StyleX, offering the same API without requiring a bundler plugin\n      \n        A PostCSS plugin to integrate React Strict DOM with static CSS extraction, compatible with Next.js, Expo, and other bundlers\n      \n        A lightweight utility for generating type-safe URLs in Next.js and other frameworks\n      \n        The missing React Hook to handle form initial values that depend on dynamic data from SWR, React Query, and more\n      \n        A scroll restoration library for Next.js App Router that supports custom scrollable elements",
+          "language": "TypeScriptTypeScriptTypeScriptTypeScriptTypeScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Xiaoxin Lu",
+      "username": "hyperlink",
+      "profileUrl": "https://github.com/hyperlink",
+      "bio": "",
+      "location": "Raleigh, NC",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "kafka-nodeplex-tv-cleanupsven-clielectordo-dynamic-dnsastronode",
+          "description": "Node.js client for Apache Kafka 0.8 and later.\n      \n        Automatically delete watched TV shows on Plex\n      \n        SVN command line with sugar added\n      \n        simple zookeeper based leader election\n      \n        Dynamic DNS client for Digital Ocean\n      \n        Play astroids on two sites (side by side) using node.js and socket.io",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptJavaScriptJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "JavaScript Mastery",
+      "username": "JavaScript-Mastery-Pro",
+      "profileUrl": "https://github.com/JavaScript-Mastery-Pro",
+      "bio": "JavaScript Mastery Team",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "",
+      "username": "javascript-forks",
+      "profileUrl": "https://github.com/javascript-forks",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScriptErika",
+      "profileUrl": "https://github.com/JavaScriptErika",
+      "bio": "Front-end dev | bodybuilder | wifey | #1 cat mom | spicy food is life",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "NationalParkeggheadScrollTriggerShakeATreeJavaScriptErika.github.iomemory-gamepixelMaker",
+          "description": "WIP - egghead example for React ScrollTrigger Collection\n      \n        React Nativa App: Shake a tree! Get random facts! \n      \n        Personal Portfolio Page - a current WIP<3\n      \n        Match 16 cards with their corresponding dessert emojis! \n      \n        Web app that allows users to draw pixel art on a customizable canvas",
+          "language": "TypeScriptJavaScriptTypeScriptJavaScriptJavaScriptCSS"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Javascript DeNoobAPro",
+      "username": "JavascriptDeNoobAPro",
+      "profileUrl": "https://github.com/JavascriptDeNoobAPro",
+      "bio": "",
+      "location": "Barcelona, Madrid",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "JavascriptDeNoobAPro\n              \n                2020-10-20-RefugioAnimal\n              \n                2021-online-shoestore\n              \n                2020-10-6-Google-FrontEnd\n              \n                Sidebar-menu-modal\n              \n                SignUp-Mejorado",
+          "description": "Landing Page de un Refugio Animal para practicar dropdown menu , y posicionar imágenes en el documento\n          \n            \n          \n            Replicamos la página principal de Google para practicar reglas de CSS sencillas\n          \n            Demo de un sidebar menu y un modal hechos con Javascript\n          \n            Hemos introducido validación a nuestro formulario Sign Up",
+          "language": "CSSJavaScriptHTMLHTMLJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "addison",
+      "username": "javascriptDev",
+      "profileUrl": "https://github.com/javascriptDev",
+      "bio": "@OSSDAO-ORG•AIRDROP-0x1e1033a0c00F8DBD18d146a06c01EFF332b25d64",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "generator-koa-serve\n              \n                typescript-webpack-starter\n              \n                angular2-webpack-starter\n              \n                ddz\n              \n                news\n              \n                OS",
+          "description": "a node js server \n          \n            \n          \n            🎉 An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, Ts…\n          \n            斗地主\n          \n            a offline news app \n          \n            a order system",
+          "language": "JavaScriptCSSCSSJavaScriptJavaScriptJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "JavaScript de Zéro",
+      "username": "javascriptdezero",
+      "profileUrl": "https://github.com/javascriptdezero",
+      "bio": "Formation vidéo en ligne pour apprendre le JavaScript à partir de Zéro.",
+      "location": "Grenoble, FRANCE",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "module-algorithmiquemodule-debutantcoding-dojomodule-intermediairecodewarscodingame",
+          "description": "Notes de cours du module algorithmique de la formation JavaScript de Zéro\n      \n        Exercices et notes de cours du module débutant de la formation JavaScript de Zéro\n      \n        Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)\n      \n        Exercices et notes de cours du module intermédiaire de la formation JavaScript de Zéro\n      \n        Faites vos exercices sur Codewars depuis VSCode\n      \n        Faites vos exercices CodinGame depuis VSCode",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptJavaScriptJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": ".html academy: javascript",
+      "username": "htmlacademy-javascript",
+      "profileUrl": "https://github.com/htmlacademy-javascript",
+      "bio": "JavaScript. Профессиональная разработка веб-интерфейсов",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "JavascriptMick",
+      "username": "JavascriptMick",
+      "profileUrl": "https://github.com/JavascriptMick",
+      "bio": "Michael Dausmann\nFull stack developer. Agile, Data science and Machine Learning. Love learning, speaking and dad jokes.",
+      "location": "Sydney, Australia",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "supanuxt-saas\n              \n                ng2-state-talk\n              \n                angular2-gulp-typescript\n              \n                supanuxt-saas-drizzle\n              \n                ng2-state-demo\n              \n                angular2-canvas-play",
+          "description": "Simple boilerplate for SAAS. Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI\n          \n            \n          \n            Hello world for Angular 2, Gulp and TS\n          \n            Simple boilerplate for SAAS. Nuxt3, Supabase, OAuth, Drizzle, TRPC, Pinia, Stripe, Tailwind, OpenAI\n          \n            Exploring State and Data management with @ngrx/store and http in an Angular2 demo\n          \n            sticky notes on canvas example in Angular2 Utilising ng2-play base",
+          "language": "VueTypeScriptJavaScriptTypeScriptTypeScriptJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Yuri Almeida",
+      "username": "javascripto",
+      "profileUrl": "https://github.com/javascripto",
+      "bio": "A-a-ay, I'm on vacation\nEvery single day 'cause I love my occupation :musical_note:",
+      "location": "São Paulo - SP",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "flutter_mental_health_app_layoutFile name sanitizer for FAT partitio...bible-crawlerDesafios-CSharpgostackomnistack-11",
+          "description": "Algumas aplicações C# desenvolvidas com base em desafios propostos em cursos.",
+          "language": "DartTypeScriptC#TypeScriptTypeScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "JavaScript Everywhere",
+      "username": "javascripteverywhere",
+      "profileUrl": "https://github.com/javascripteverywhere",
+      "bio": "Source code and examples for JavaScript Everywhere by Adam D. Scott and JavaScript Cookbook by Adam D. Scott, Matthew MacDonald, and Shelley Powers",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "JianWen Han",
+      "username": "javascript666666",
+      "profileUrl": "https://github.com/javascript666666",
+      "bio": "Nothing in the world is difficult if you put your heart into it",
+      "location": "China BeiJin",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "nodejsmBlogweiyun2drapJS-js_practice",
+          "description": "test.js 用node promise来实现用户数据生成 test2.js 用bluebird改写promise\n      \n        NodeJS express leanClound \n      \n        微云功能完成\n      \n        拖拽的项目\n      \n        一些基础问题的记录\n      \n        primary js",
+          "language": "JavaScriptCSSJavaScriptHTMLHTML"
+        }
+      ]
+    },
+    {
+      "githubUsername": "",
+      "username": "javascriptacademy-stash",
+      "profileUrl": "https://github.com/javascriptacademy-stash",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "tic-tac-toe\n              \n                digital-rain\n              \n                calculator\n              \n                responsive-navbar\n              \n                clock-alarm\n              \n                memory-card-game",
+          "description": "",
+          "language": "JavaScriptJavaScriptHTMLCSSJavaScriptCSS"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Javascript Hacks ID",
+      "username": "javascript-indonesias",
+      "profileUrl": "https://github.com/javascript-indonesias",
+      "bio": "Hasil belajar javascript dan typescript",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "javascript",
+      "username": "AmyDayday",
+      "profileUrl": "https://github.com/AmyDayday",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "test\n              \n                gittest\n              \n                Amy-note\n              \n                nodebeginner.org\n              \n                javascript\n              \n                mongodb",
+          "description": "A comprehensive Node.js tutorial for beginners",
+          "language": "JavaScriptHTML"
+        }
+      ]
+    },
+    {
+      "githubUsername": "ayhan",
+      "username": "javascripttii2",
+      "profileUrl": "https://github.com/javascripttii2",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "slate\n              \n                ethereumbook\n              \n                metasploit-framework\n              \n                wiki\n              \n                angular\n              \n                myapp",
+          "description": "Beautiful static documentation for your API\n          \n            Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood\n          \n            Metasploit Framework\n          \n            Wiki.js | A modern and powerful wiki app built on Node.js\n          \n            Deliver web apps with confidence 🚀",
+          "language": "SCSSJavaScriptRubyVueTypeScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Javascript",
+      "username": "luckyscc",
+      "profileUrl": "https://github.com/luckyscc",
+      "bio": "岁月长，衣裳薄",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "fe\n              \n                js\n              \n                hellojiewei.io\n              \n                webpackxuexi\n              \n                NodeBlog\n              \n                react-todolist",
+          "description": "《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer",
+          "language": "HTMLHTMLCSSJavaScriptHTMLJavaScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Javascript is Magic",
+      "username": "JavascriptIsMagic",
+      "profileUrl": "https://github.com/JavascriptIsMagic",
+      "bio": "",
+      "location": "The Internet",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "shebang-loader\n              \n                aui\n              \n                comailer\n              \n                react-replace\n              \n                computercraft\n              \n                react-semantic-syntax",
+          "description": "#!/usr/bin/env shebang loader for webpack\n          \n            Aui is Semantic UI + React\n          \n            A simple co wrapper around nodemailer.\n          \n            React utilities for manipulating the tree structure of React Elements.\n          \n            Collection of lua scripts (mostly for turtles) for the Minecraft mod ComputerCraft.\n          \n            Semantic Syntax for className in React for easily working with CSS Frameworks such as Semantic-UI, Bootstrap, and others.",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptCoffeeScriptCoffeeScript"
+        }
+      ]
+    },
+    {
+      "githubUsername": "Cal Geek",
+      "username": "ideaguy3d",
+      "profileUrl": "https://github.com/ideaguy3d",
+      "bio": "builder 🛠️ for Apple Machine Intelligence 🍎🤖",
+      "location": "California",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "HackMatchphp-the-right-wayphp-data-strucutresalgorithms_data_structurespython-practicepytorch_practice",
+          "description": "Cloud App to connect mentors with mentees, accountability partners, and OS project maintainers with new contributors\n      \n        An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web\n      \n        An extension providing efficient data structures for PHP 7\n      \n        lots & LOTS of 'data structures and algorithms' practice & a touch of statistical computing in PHP, Python, and JavaScript\n      \n        practicing Python\n      \n        practicing deep learning in PyTorch",
+          "language": "PHPPHPCPythonPythonJupyter Notebook"
+        }
+      ]
+    },
+    {
+      "githubUsername": "React.js Projects",
+      "username": "JavascriptList",
+      "profileUrl": "https://github.com/JavascriptList",
+      "bio": "Technology Hackthon",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "javascript-ninja",
+      "username": "javascript-ninja-123",
+      "profileUrl": "https://github.com/javascript-ninja-123",
+      "bio": "Software engineer",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "JS_Interview_Challenge\n              \n                ReactWeather\n              \n                exhibition2\n              \n                first-commit\n              \n                week3-project1-orange-\n              \n                week3-project2-liquidgem",
+          "description": "",
+          "language": "JavaScriptJavaScriptHTMLHTMLHTMLHTML"
+        }
+      ]
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScript-Resource",
+      "profileUrl": "https://github.com/JavaScript-Resource",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "JavaScript Kampala",
+      "username": "javaScriptKampala",
+      "profileUrl": "https://github.com/javaScriptKampala",
+      "bio": "The Kampala JavaScript Community",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "JavaScript Obfuscator",
+      "username": "javascript-obfuscator",
+      "profileUrl": "https://github.com/javascript-obfuscator",
+      "bio": "JavaScript obfuscator for Node.js",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScriptExpert",
+      "profileUrl": "https://github.com/JavaScriptExpert",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": []
+    },
+    {
+      "githubUsername": "Anna Traylor",
+      "username": "javascript-queen",
+      "profileUrl": "https://github.com/javascript-queen",
+      "bio": "Hi! I'm Anna, and I'm a Data Analyst in Tinkoff Bank in Russia. I'm concurrently pursuing a Master's degree in Data Science from MIPT.",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "StackOverflow_Survey_2023_Predictionchrome-extension-inputs-saverlinkedin-python-scrapercraiglist-python-scraperjs-queen-webmr-mrsmars",
+          "description": "✨ My ML prediction with regression project based on the Stack Overflow Survey 2023\n      \n        An easy chrome extension to save a current url or any other url to your list\n      \n        An easy to use Python scraper to scrape Linkedin profiles' url\n      \n        An easy to use Python scraper to send you updates on the new stuff on Craiglist\n      \n        React portfolio website for JS Queen: www.jsqueen.dev\n      \n         NextJs, Tailwind, ThreeJS portfolio website for Mr&MrsMars: https://mrmrsmars.vercel.app",
+          "language": "Jupyter NotebookJavaScriptPythonPythonJavaScriptSCSS"
+        }
+      ]
+    }
+  ],
+  "processedData": [
+    {
+      "githubUsername": "",
+      "username": "javascript",
+      "profileUrl": "https://github.com/javascript",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": [],
+        "tech_stack": [],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "undefined"
+      }
+    },
+    {
+      "githubUsername": "The Modern JavaScript Tutorial",
+      "username": "javascript-tutorial",
+      "profileUrl": "https://github.com/javascript-tutorial",
+      "bio": "The Modern JavaScript Tutorial",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "unknown",
+        "specialization": "JavaScript Tutorial/Education"
+      }
+    },
+    {
+      "githubUsername": "JavaScript",
+      "username": "javascriptit",
+      "profileUrl": "https://github.com/javascriptit",
+      "bio": "JavaScript the client side language of the World Wide Web",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "javascripter",
+      "profileUrl": "https://github.com/javascripter",
+      "bio": "Software Engineer 🤔",
+      "location": "London",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "nanocsspostcss-react-strict-domtyped-linkreact-hooks-use-form-statenext-scroll-restorationChatPadでGPS距離から住所を特定するexploit（修正済み）",
+          "description": "A fast, 2Kb alternative to StyleX, offering the same API without requiring a bundler plugin\n      \n        A PostCSS plugin to integrate React Strict DOM with static CSS extraction, compatible with Next.js, Expo, and other bundlers\n      \n        A lightweight utility for generating type-safe URLs in Next.js and other frameworks\n      \n        The missing React Hook to handle form initial values that depend on dynamic data from SWR, React Query, and more\n      \n        A scroll restoration library for Next.js App Router that supports custom scrollable elements",
+          "language": "TypeScriptTypeScriptTypeScriptTypeScriptTypeScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "TypeScript",
+          "React",
+          "Next.js",
+          "PostCSS",
+          "JavaScript"
+        ],
+        "tech_stack": [
+          "TypeScript",
+          "React",
+          "Next.js",
+          "PostCSS",
+          "JavaScript",
+          "SWR",
+          "React Query"
+        ],
+        "notable_contributions": [
+          "nanocss: A fast, 2Kb alternative to StyleX",
+          "PostCSS plugin for React Strict DOM with static CSS extraction",
+          "Type-safe URL generation utility for Next.js",
+          "React Hook for handling form initial values with dynamic data",
+          "Scroll restoration library for Next.js App Router"
+        ],
+        "experience_level": "mid",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "Xiaoxin Lu",
+      "username": "hyperlink",
+      "profileUrl": "https://github.com/hyperlink",
+      "bio": "",
+      "location": "Raleigh, NC",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "kafka-nodeplex-tv-cleanupsven-clielectordo-dynamic-dnsastronode",
+          "description": "Node.js client for Apache Kafka 0.8 and later.\n      \n        Automatically delete watched TV shows on Plex\n      \n        SVN command line with sugar added\n      \n        simple zookeeper based leader election\n      \n        Dynamic DNS client for Digital Ocean\n      \n        Play astroids on two sites (side by side) using node.js and socket.io",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptJavaScriptJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "JavaScript",
+          "Node.js",
+          "Apache Kafka",
+          "ZooKeeper",
+          "SVN",
+          "Dynamic DNS",
+          "Socket.io",
+          "Plex"
+        ],
+        "tech_stack": [
+          "JavaScript",
+          "Node.js",
+          "Apache Kafka",
+          "ZooKeeper",
+          "SVN",
+          "DigitalOcean",
+          "Socket.io",
+          "Plex"
+        ],
+        "notable_contributions": [
+          "Node.js client for Apache Kafka",
+          "Plex TV show cleanup automation",
+          "Enhanced SVN command-line tool",
+          "ZooKeeper based leader election implementation",
+          "Dynamic DNS client for DigitalOcean",
+          "Multiplayer Asteroids game using Node.js and Socket.io"
+        ],
+        "experience_level": "mid",
+        "specialization": "Backend Development"
+      }
+    },
+    {
+      "githubUsername": "JavaScript Mastery",
+      "username": "JavaScript-Mastery-Pro",
+      "profileUrl": "https://github.com/JavaScript-Mastery-Pro",
+      "bio": "JavaScript Mastery Team",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "unknown",
+        "specialization": "JavaScript"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "javascript-forks",
+      "profileUrl": "https://github.com/javascript-forks",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": [],
+        "tech_stack": [],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Unspecified"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScriptErika",
+      "profileUrl": "https://github.com/JavaScriptErika",
+      "bio": "Front-end dev | bodybuilder | wifey | #1 cat mom | spicy food is life",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "NationalParkeggheadScrollTriggerShakeATreeJavaScriptErika.github.iomemory-gamepixelMaker",
+          "description": "WIP - egghead example for React ScrollTrigger Collection\n      \n        React Nativa App: Shake a tree! Get random facts! \n      \n        Personal Portfolio Page - a current WIP<3\n      \n        Match 16 cards with their corresponding dessert emojis! \n      \n        Web app that allows users to draw pixel art on a customizable canvas",
+          "language": "TypeScriptJavaScriptTypeScriptJavaScriptJavaScriptCSS"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "TypeScript", "React", "CSS"],
+        "tech_stack": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "CSS",
+          "ScrollTrigger"
+        ],
+        "notable_contributions": [
+          "WIP React ScrollTrigger example (egghead.io)",
+          "React Native app: 'Shake a tree!' (random facts)",
+          "Personal portfolio website (WIP)",
+          "Memory game (16 card matching)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Front-end Development"
+      }
+    },
+    {
+      "githubUsername": "Javascript DeNoobAPro",
+      "username": "JavascriptDeNoobAPro",
+      "profileUrl": "https://github.com/JavascriptDeNoobAPro",
+      "bio": "",
+      "location": "Barcelona, Madrid",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "JavascriptDeNoobAPro\n              \n                2020-10-20-RefugioAnimal\n              \n                2021-online-shoestore\n              \n                2020-10-6-Google-FrontEnd\n              \n                Sidebar-menu-modal\n              \n                SignUp-Mejorado",
+          "description": "Landing Page de un Refugio Animal para practicar dropdown menu , y posicionar imágenes en el documento\n          \n            \n          \n            Replicamos la página principal de Google para practicar reglas de CSS sencillas\n          \n            Demo de un sidebar menu y un modal hechos con Javascript\n          \n            Hemos introducido validación a nuestro formulario Sign Up",
+          "language": "CSSJavaScriptHTMLHTMLJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "CSS", "HTML"],
+        "tech_stack": ["JavaScript", "CSS", "HTML"],
+        "notable_contributions": [
+          "Landing Page for an Animal Shelter (practicing dropdown menus and image positioning)",
+          "Google main page replica (practicing basic CSS rules)",
+          "Sidebar menu and modal demo (built with JavaScript)",
+          "Improved Sign Up form with validation"
+        ],
+        "experience_level": "junior",
+        "specialization": "Front-End Development"
+      }
+    },
+    {
+      "githubUsername": "addison",
+      "username": "javascriptDev",
+      "profileUrl": "https://github.com/javascriptDev",
+      "bio": "@OSSDAO-ORG•AIRDROP-0x1e1033a0c00F8DBD18d146a06c01EFF332b25d64",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "generator-koa-serve\n              \n                typescript-webpack-starter\n              \n                angular2-webpack-starter\n              \n                ddz\n              \n                news\n              \n                OS",
+          "description": "a node js server \n          \n            \n          \n            🎉 An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, Ts…\n          \n            斗地主\n          \n            a offline news app \n          \n            a order system",
+          "language": "JavaScriptCSSCSSJavaScriptJavaScriptJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "JavaScript",
+          "TypeScript",
+          "Angular",
+          "Node.js",
+          "Webpack"
+        ],
+        "tech_stack": [
+          "JavaScript",
+          "TypeScript",
+          "Angular 2",
+          "Node.js",
+          "Webpack",
+          "Karma",
+          "Protractor",
+          "Jasmine",
+          "Istanbul",
+          "Material Design",
+          "CSS"
+        ],
+        "notable_contributions": [],
+        "experience_level": "mid",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "JavaScript de Zéro",
+      "username": "javascriptdezero",
+      "profileUrl": "https://github.com/javascriptdezero",
+      "bio": "Formation vidéo en ligne pour apprendre le JavaScript à partir de Zéro.",
+      "location": "Grenoble, FRANCE",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "module-algorithmiquemodule-debutantcoding-dojomodule-intermediairecodewarscodingame",
+          "description": "Notes de cours du module algorithmique de la formation JavaScript de Zéro\n      \n        Exercices et notes de cours du module débutant de la formation JavaScript de Zéro\n      \n        Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)\n      \n        Exercices et notes de cours du module intermédiaire de la formation JavaScript de Zéro\n      \n        Faites vos exercices sur Codewars depuis VSCode\n      \n        Faites vos exercices CodinGame depuis VSCode",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptJavaScriptJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "Algorithmic Problem Solving"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [
+          "Creating online video courses for learning JavaScript",
+          "Developing course materials including exercises and notes for beginner, intermediate, and advanced levels",
+          "Providing French-language resources for learning JavaScript"
+        ],
+        "experience_level": "mid",
+        "specialization": "JavaScript Education and Training"
+      }
+    },
+    {
+      "githubUsername": ".html academy: javascript",
+      "username": "htmlacademy-javascript",
+      "profileUrl": "https://github.com/htmlacademy-javascript",
+      "bio": "JavaScript. Профессиональная разработка веб-интерфейсов",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "mid",
+        "specialization": "Web Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "JavascriptMick",
+      "username": "JavascriptMick",
+      "profileUrl": "https://github.com/JavascriptMick",
+      "bio": "Michael Dausmann\nFull stack developer. Agile, Data science and Machine Learning. Love learning, speaking and dad jokes.",
+      "location": "Sydney, Australia",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "supanuxt-saas\n              \n                ng2-state-talk\n              \n                angular2-gulp-typescript\n              \n                supanuxt-saas-drizzle\n              \n                ng2-state-demo\n              \n                angular2-canvas-play",
+          "description": "Simple boilerplate for SAAS. Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI\n          \n            \n          \n            Hello world for Angular 2, Gulp and TS\n          \n            Simple boilerplate for SAAS. Nuxt3, Supabase, OAuth, Drizzle, TRPC, Pinia, Stripe, Tailwind, OpenAI\n          \n            Exploring State and Data management with @ngrx/store and http in an Angular2 demo\n          \n            sticky notes on canvas example in Angular2 Utilising ng2-play base",
+          "language": "VueTypeScriptJavaScriptTypeScriptTypeScriptJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "Full Stack Development",
+          "Agile",
+          "Data Science",
+          "Machine Learning"
+        ],
+        "tech_stack": [
+          "Vue",
+          "Nuxt.js",
+          "Supabase",
+          "OAuth",
+          "Prisma",
+          "TRPC",
+          "Pinia",
+          "Stripe",
+          "Tailwind CSS",
+          "OpenAI",
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "Gulp"
+        ],
+        "notable_contributions": [
+          "supanuxt-saas (SAAS boilerplate using Nuxt3, Supabase, etc.)",
+          "ng2-state-talk (Angular2 state management demo)",
+          "angular2-gulp-typescript (Angular2, Gulp, and TypeScript boilerplate)",
+          "supanuxt-saas-drizzle (SAAS boilerplate with Drizzle)",
+          "ng2-state-demo (Angular2 state and data management demo)",
+          "angular2-canvas-play (Angular2 canvas example)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Full Stack Development"
+      }
+    },
+    {
+      "githubUsername": "Yuri Almeida",
+      "username": "javascripto",
+      "profileUrl": "https://github.com/javascripto",
+      "bio": "A-a-ay, I'm on vacation\nEvery single day 'cause I love my occupation :musical_note:",
+      "location": "São Paulo - SP",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "flutter_mental_health_app_layoutFile name sanitizer for FAT partitio...bible-crawlerDesafios-CSharpgostackomnistack-11",
+          "description": "Algumas aplicações C# desenvolvidas com base em desafios propostos em cursos.",
+          "language": "DartTypeScriptC#TypeScriptTypeScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["C#", "Dart", "TypeScript"],
+        "tech_stack": ["C#", "Dart", "TypeScript", "Flutter"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Software Development"
+      }
+    },
+    {
+      "githubUsername": "JavaScript Everywhere",
+      "username": "javascripteverywhere",
+      "profileUrl": "https://github.com/javascripteverywhere",
+      "bio": "Source code and examples for JavaScript Everywhere by Adam D. Scott and JavaScript Cookbook by Adam D. Scott, Matthew MacDonald, and Shelley Powers",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "senior",
+        "specialization": "JavaScript"
+      }
+    },
+    {
+      "githubUsername": "JianWen Han",
+      "username": "javascript666666",
+      "profileUrl": "https://github.com/javascript666666",
+      "bio": "Nothing in the world is difficult if you put your heart into it",
+      "location": "China BeiJin",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "nodejsmBlogweiyun2drapJS-js_practice",
+          "description": "test.js 用node promise来实现用户数据生成 test2.js 用bluebird改写promise\n      \n        NodeJS express leanClound \n      \n        微云功能完成\n      \n        拖拽的项目\n      \n        一些基础问题的记录\n      \n        primary js",
+          "language": "JavaScriptCSSJavaScriptHTMLHTML"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "Promise",
+          "HTML",
+          "CSS"
+        ],
+        "tech_stack": [
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "Promise",
+          "Bluebird",
+          "HTML",
+          "CSS",
+          "LeanCloud"
+        ],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Frontend/Backend (Full-Stack)"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "javascriptacademy-stash",
+      "profileUrl": "https://github.com/javascriptacademy-stash",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "tic-tac-toe\n              \n                digital-rain\n              \n                calculator\n              \n                responsive-navbar\n              \n                clock-alarm\n              \n                memory-card-game",
+          "description": "",
+          "language": "JavaScriptJavaScriptHTMLCSSJavaScriptCSS"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "HTML", "CSS"],
+        "tech_stack": ["JavaScript", "HTML", "CSS"],
+        "notable_contributions": [
+          "Tic-Tac-Toe game",
+          "Digital Rain effect",
+          "Calculator",
+          "Responsive Navbar",
+          "Clock/Alarm",
+          "Memory Card Game"
+        ],
+        "experience_level": "junior",
+        "specialization": "Front-End Development"
+      }
+    },
+    {
+      "githubUsername": "Javascript Hacks ID",
+      "username": "javascript-indonesias",
+      "profileUrl": "https://github.com/javascript-indonesias",
+      "bio": "Hasil belajar javascript dan typescript",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["Javascript", "Typescript"],
+        "tech_stack": ["Javascript", "Typescript"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Javascript Development"
+      }
+    },
+    {
+      "githubUsername": "javascript",
+      "username": "AmyDayday",
+      "profileUrl": "https://github.com/AmyDayday",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "test\n              \n                gittest\n              \n                Amy-note\n              \n                nodebeginner.org\n              \n                javascript\n              \n                mongodb",
+          "description": "A comprehensive Node.js tutorial for beginners",
+          "language": "JavaScriptHTML"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "Node.js", "MongoDB", "HTML"],
+        "tech_stack": ["JavaScript", "Node.js", "MongoDB", "HTML", "Git"],
+        "notable_contributions": [
+          "A comprehensive Node.js tutorial for beginners (test, gittest, Amy-note, nodebeginner.org, javascript, mongodb repository)"
+        ],
+        "experience_level": "junior",
+        "specialization": "Frontend/Backend (Full-Stack)"
+      }
+    },
+    {
+      "githubUsername": "ayhan",
+      "username": "javascripttii2",
+      "profileUrl": "https://github.com/javascripttii2",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "slate\n              \n                ethereumbook\n              \n                metasploit-framework\n              \n                wiki\n              \n                angular\n              \n                myapp",
+          "description": "Beautiful static documentation for your API\n          \n            Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood\n          \n            Metasploit Framework\n          \n            Wiki.js | A modern and powerful wiki app built on Node.js\n          \n            Deliver web apps with confidence 🚀",
+          "language": "SCSSJavaScriptRubyVueTypeScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "TypeScript", "Ruby", "SCSS"],
+        "tech_stack": [
+          "JavaScript",
+          "TypeScript",
+          "Ruby",
+          "SCSS",
+          "Vue",
+          "Node.js"
+        ],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Full Stack Development (likely)"
+      }
+    },
+    {
+      "githubUsername": "Javascript",
+      "username": "luckyscc",
+      "profileUrl": "https://github.com/luckyscc",
+      "bio": "岁月长，衣裳薄",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "fe\n              \n                js\n              \n                hellojiewei.io\n              \n                webpackxuexi\n              \n                NodeBlog\n              \n                react-todolist",
+          "description": "《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer",
+          "language": "HTMLHTMLCSSJavaScriptHTMLJavaScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Webpack",
+          "React",
+          "Node.js"
+        ],
+        "tech_stack": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Webpack",
+          "React",
+          "Node.js"
+        ],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "Javascript is Magic",
+      "username": "JavascriptIsMagic",
+      "profileUrl": "https://github.com/JavascriptIsMagic",
+      "bio": "",
+      "location": "The Internet",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "shebang-loader\n              \n                aui\n              \n                comailer\n              \n                react-replace\n              \n                computercraft\n              \n                react-semantic-syntax",
+          "description": "#!/usr/bin/env shebang loader for webpack\n          \n            Aui is Semantic UI + React\n          \n            A simple co wrapper around nodemailer.\n          \n            React utilities for manipulating the tree structure of React Elements.\n          \n            Collection of lua scripts (mostly for turtles) for the Minecraft mod ComputerCraft.\n          \n            Semantic Syntax for className in React for easily working with CSS Frameworks such as Semantic-UI, Bootstrap, and others.",
+          "language": "JavaScriptJavaScriptJavaScriptJavaScriptCoffeeScriptCoffeeScript"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "React", "CoffeeScript", "Node.js"],
+        "tech_stack": [
+          "JavaScript",
+          "React",
+          "CoffeeScript",
+          "Node.js",
+          "Webpack",
+          "Semantic UI",
+          "Nodemailer",
+          "Lua",
+          "ComputerCraft (Minecraft mod)",
+          "Bootstrap"
+        ],
+        "notable_contributions": [
+          "shebang-loader (Webpack shebang loader)",
+          "aui (Semantic UI + React integration)",
+          "comailer (Nodemailer wrapper)",
+          "react-replace (React utility for manipulating React Elements)",
+          "computercraft (Lua scripts for ComputerCraft Minecraft mod)",
+          "react-semantic-syntax (Semantic syntax for React classNames)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Front-end Development/JavaScript Libraries and Utilities"
+      }
+    },
+    {
+      "githubUsername": "Cal Geek",
+      "username": "ideaguy3d",
+      "profileUrl": "https://github.com/ideaguy3d",
+      "bio": "builder 🛠️ for Apple Machine Intelligence 🍎🤖",
+      "location": "California",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "HackMatchphp-the-right-wayphp-data-strucutresalgorithms_data_structurespython-practicepytorch_practice",
+          "description": "Cloud App to connect mentors with mentees, accountability partners, and OS project maintainers with new contributors\n      \n        An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web\n      \n        An extension providing efficient data structures for PHP 7\n      \n        lots & LOTS of 'data structures and algorithms' practice & a touch of statistical computing in PHP, Python, and JavaScript\n      \n        practicing Python\n      \n        practicing deep learning in PyTorch",
+          "language": "PHPPHPCPythonPythonJupyter Notebook"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "PHP",
+          "Python",
+          "PyTorch",
+          "Data Structures and Algorithms",
+          "Deep Learning",
+          "Cloud Computing"
+        ],
+        "tech_stack": ["PHP", "Python", "PyTorch", "Jupyter Notebook"],
+        "notable_contributions": [
+          "HackMatch (mentorship platform)",
+          "PHP best practices reference",
+          "PHP data structures extension",
+          "Data structures and algorithms practice (PHP, Python, JavaScript)",
+          "Deep learning practice (PyTorch)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Machine Intelligence/Software Engineering"
+      }
+    },
+    {
+      "githubUsername": "React.js Projects",
+      "username": "JavascriptList",
+      "profileUrl": "https://github.com/JavascriptList",
+      "bio": "Technology Hackthon",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript", "React.js"],
+        "tech_stack": ["JavaScript", "React.js"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "javascript-ninja",
+      "username": "javascript-ninja-123",
+      "profileUrl": "https://github.com/javascript-ninja-123",
+      "bio": "Software engineer",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "JS_Interview_Challenge\n              \n                ReactWeather\n              \n                exhibition2\n              \n                first-commit\n              \n                week3-project1-orange-\n              \n                week3-project2-liquidgem",
+          "description": "",
+          "language": "JavaScriptJavaScriptHTMLHTMLHTMLHTML"
+        }
+      ],
+      "analysis": {
+        "primary_skills": ["JavaScript", "React", "HTML"],
+        "tech_stack": ["JavaScript", "React", "HTML"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Frontend Development"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScript-Resource",
+      "profileUrl": "https://github.com/JavaScript-Resource",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": [],
+        "tech_stack": [],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "Unspecified"
+      }
+    },
+    {
+      "githubUsername": "JavaScript Kampala",
+      "username": "javaScriptKampala",
+      "profileUrl": "https://github.com/javaScriptKampala",
+      "bio": "The Kampala JavaScript Community",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript", "Community Management"],
+        "tech_stack": [],
+        "notable_contributions": [
+          "Community Building (Kampala JavaScript Community)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Community Management/JavaScript"
+      }
+    },
+    {
+      "githubUsername": "JavaScript Obfuscator",
+      "username": "javascript-obfuscator",
+      "profileUrl": "https://github.com/javascript-obfuscator",
+      "bio": "JavaScript obfuscator for Node.js",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript", "Node.js", "Obfuscation"],
+        "tech_stack": ["JavaScript", "Node.js"],
+        "notable_contributions": [],
+        "experience_level": "mid",
+        "specialization": "Software Security/Code Protection"
+      }
+    },
+    {
+      "githubUsername": "",
+      "username": "JavaScriptExpert",
+      "profileUrl": "https://github.com/JavaScriptExpert",
+      "bio": "",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [],
+      "analysis": {
+        "primary_skills": ["JavaScript"],
+        "tech_stack": ["JavaScript"],
+        "notable_contributions": [],
+        "experience_level": "junior",
+        "specialization": "JavaScript"
+      }
+    },
+    {
+      "githubUsername": "Anna Traylor",
+      "username": "javascript-queen",
+      "profileUrl": "https://github.com/javascript-queen",
+      "bio": "Hi! I'm Anna, and I'm a Data Analyst in Tinkoff Bank in Russia. I'm concurrently pursuing a Master's degree in Data Science from MIPT.",
+      "location": "",
+      "contributions": 0,
+      "pinnedRepos": [
+        {
+          "name": "StackOverflow_Survey_2023_Predictionchrome-extension-inputs-saverlinkedin-python-scrapercraiglist-python-scraperjs-queen-webmr-mrsmars",
+          "description": "✨ My ML prediction with regression project based on the Stack Overflow Survey 2023\n      \n        An easy chrome extension to save a current url or any other url to your list\n      \n        An easy to use Python scraper to scrape Linkedin profiles' url\n      \n        An easy to use Python scraper to send you updates on the new stuff on Craiglist\n      \n        React portfolio website for JS Queen: www.jsqueen.dev\n      \n         NextJs, Tailwind, ThreeJS portfolio website for Mr&MrsMars: https://mrmrsmars.vercel.app",
+          "language": "Jupyter NotebookJavaScriptPythonPythonJavaScriptSCSS"
+        }
+      ],
+      "analysis": {
+        "primary_skills": [
+          "Data Analysis",
+          "Machine Learning",
+          "Python",
+          "JavaScript",
+          "React",
+          "Next.js",
+          "Tailwind CSS",
+          "Three.js",
+          "Web Scraping"
+        ],
+        "tech_stack": [
+          "Jupyter Notebook",
+          "JavaScript",
+          "Python",
+          "React",
+          "Next.js",
+          "Tailwind CSS",
+          "Three.js",
+          "SCSS"
+        ],
+        "notable_contributions": [
+          "ML prediction project based on Stack Overflow Survey 2023",
+          "Chrome extension to save URLs",
+          "Python scraper for LinkedIn profiles",
+          "Python scraper for Craigslist",
+          "React portfolio website (www.jsqueen.dev)",
+          "Next.js, Tailwind, Three.js portfolio website (mrmrsmars.vercel.app)"
+        ],
+        "experience_level": "mid",
+        "specialization": "Data Science"
+      }
+    }
+  ]
+}
